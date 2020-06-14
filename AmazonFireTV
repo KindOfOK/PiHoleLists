@@ -1,6 +1,5 @@
 ## Source: https://www.reddit.com/r/pihole/comments/dif3h6/are_the_new_fire_tv_tracking_sites_already_on_the/ ##
 ## Attempt to make RegEx-like: https://raw.githubusercontent.com/mmotti/pihole-regex/master/user%20suggested/first-party%20trackers.list ##
-^(.+[_.-])litix\.io$
 #(^|\.)litix\.io$
 ^(.+[_.-])litix\.io$
 #(^|\.)2mdn\.net$
